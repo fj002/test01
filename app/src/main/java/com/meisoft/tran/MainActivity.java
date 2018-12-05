@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
         getData();
         //修改代码,重新获取
+
         setAdapter();
         setListener();
 
