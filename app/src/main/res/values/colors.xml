@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3F51B5</color><!--通知栏背景色-->
+    <color name="colorAccent">#FF4081</color>
+    <color name="navigationBarColor">#000000</color><!--物理按键颜色-->
+    <color name="gray1">#F5F5F5</color>
+    <color name="gray2">#cdcdcd</color>
+    <color name="yellow1">#FF7C3C</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_gray">#666666</color>
+    <color name="gray3">#e5e2e2</color>
+    <color name="blue">#0066FF</color>
+    <color name="transparent">#00000000</color>
+    <color name="global_orange">#dd3b04</color>
+    <color name="global_orange_light">#f6d5c9</color>
+
+</resources>

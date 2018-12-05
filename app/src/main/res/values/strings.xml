@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">货主端</string>
+    <string name="tab_home">首页</string>
+    <string name="mine">我的</string>
+    <string name="msg">消息</string>
+    <string name="contact">通讯录</string>
+    <string name="title_name">奔力物流</string>
+</resources>
