@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         getData();
-        //修改代码
+        //修改代码,重新获取
         setAdapter();
         setListener();
 
