@@ -6,6 +6,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
+import android.widget.Toast;
 
 import com.meisoft.tran.fragment.ContactsFragment;
 import com.meisoft.tran.fragment.HomeFragment;
@@ -40,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
         //修改代码,重新获取
         setAdapter();
         setListener();
-
     }
 
     private void setListener() {
